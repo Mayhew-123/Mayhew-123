@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayhew-123
 - 👀 I’m interested in entrepreneurship, cosmos & fascinated by biotechnology
-- 🌱 I’m currently learning to code from scratch
+
 
 
 <!---
